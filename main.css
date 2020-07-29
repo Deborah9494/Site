@@ -1,0 +1,45 @@
+/* CSS comments are just like multi-line JavaScript ones.*/
+
+body {
+  font-family: helvetica;
+}
+
+ul {
+  font-family: monospace;
+}
+
+li {
+  list-style: circle;
+}
+
+.list {
+  list-style: square;
+}
+
+#date {
+  font-size: 12px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.table
+{
+    border-collapse: collapse;
+    width:80%;
+}
+
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+  font-family: helvetica;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.table a
+{
+    display:block;
+    text-decoration:none;
+}
